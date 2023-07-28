@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "HSR_POINT",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "station": "JURONG EAST" }, "geometry": { "type": "Point", "coordinates": [ 103.736768135508711, 1.324305759954445 ] } },
+{ "type": "Feature", "properties": { "station": "ISKANDAR PUTERI" }, "geometry": { "type": "Point", "coordinates": [ 103.643767469558625, 1.42368322803364 ] } },
+{ "type": "Feature", "properties": { "station": "BATU PAHAT" }, "geometry": { "type": "Point", "coordinates": [ 102.949236765088529, 1.849595632654854 ] } },
+{ "type": "Feature", "properties": { "station": "MUAR" }, "geometry": { "type": "Point", "coordinates": [ 102.585306888498778, 2.05674579220864 ] } },
+{ "type": "Feature", "properties": { "station": "AYER KEROH" }, "geometry": { "type": "Point", "coordinates": [ 102.290474270598835, 2.26495610663739 ] } },
+{ "type": "Feature", "properties": { "station": "SEREMBAN" }, "geometry": { "type": "Point", "coordinates": [ 101.944156020471738, 2.71283558563786 ] } },
+{ "type": "Feature", "properties": { "station": "SEPANG - PUTRAJAYA" }, "geometry": { "type": "Point", "coordinates": [ 101.693451252768469, 2.860060732009618 ] } },
+{ "type": "Feature", "properties": { "station": "BANDAR MALAYSIA" }, "geometry": { "type": "Point", "coordinates": [ 101.701226872163602, 3.115447676357006 ] } }
+]
+}
